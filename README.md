@@ -40,6 +40,7 @@ Successfully created CNN model for detecting melanoma with validation accuracy ~
 
 ## Technologies Used
 Python 3.10.11
+
 Pandas version - 1.5.3
 numpy version - 1.22.4
 seaborn version - 0.12.2 
